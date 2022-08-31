@@ -7,6 +7,11 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=albertopasqualetto&show_icons=true&hide_rank=true&line_height=19)
 
+
+### My accounts:
+
+[![](https://img.shields.io/static/v1?message=Crowdin&logo=crowdin&label=%20&style=flat&color=brightgreen&labelColor=5c5c5c)](https://crowdin.com/profile/albertopasqualetto)
+
 <!--
 **albertopasqualetto/albertopasqualetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

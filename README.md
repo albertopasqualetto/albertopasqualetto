@@ -5,11 +5,14 @@
 
 ### My stats:
 
+[![wakatime](https://wakatime.com/badge/user/1e7bf299-9b4f-4be5-9ead-84318786253d.svg)](https://wakatime.com/@1e7bf299-9b4f-4be5-9ead-84318786253d)
+
 ![](https://github-readme-stats.vercel.app/api?username=albertopasqualetto&show_icons=true&hide_rank=true&line_height=19)
 
 
 ### My accounts:
 
+[![](https://img.shields.io/static/v1?message=Stack%20Overflow&logo=stackoverflow&label=%20&style=flat&color=orange&labelColor=5c5c5c)](https://stackoverflow.com/users/12506990/alb-pasqua)
 [![](https://img.shields.io/static/v1?message=Crowdin&logo=crowdin&label=%20&style=flat&color=brightgreen&labelColor=5c5c5c)](https://crowdin.com/profile/albertopasqualetto)
 
 <!--

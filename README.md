@@ -16,6 +16,11 @@
 [![](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=%20&style=flat&color=blue&labelColor=5c5c5c)](https://www.linkedin.com/in/alberto-pasqualetto/)
 [![](https://img.shields.io/static/v1?message=Crowdin&logo=crowdin&label=%20&style=flat&color=brightgreen&labelColor=5c5c5c)](https://crowdin.com/profile/albertopasqualetto)
 
+
+### My Holopins:
+
+[![@albertopasqualetto's Holopin board](https://holopin.me/albertopasqualetto)](https://holopin.io/@albertopasqualetto)
+
 <!--
 **albertopasqualetto/albertopasqualetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,7 +7,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/1e7bf299-9b4f-4be5-9ead-84318786253d.svg)](https://wakatime.com/@1e7bf299-9b4f-4be5-9ead-84318786253d)
 
-![](https://github-readme-stats.vercel.app/api?username=albertopasqualetto&show_icons=true&hide_rank=true&line_height=19)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=albertopasqualetto&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&hide_rank=true&line_height=19&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=albertopasqualetto&count_private=true&include_all_commits=true&show_icons=true&disable_animations=true&hide_rank=true&line_height=19&theme=default" />
+</picture>
 
 
 ### My accounts:

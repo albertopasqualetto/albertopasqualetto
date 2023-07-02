@@ -41,6 +41,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- Track visitors -->
-![](https://hit.yhype.me/github/profile?user_id=39854348)

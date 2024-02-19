@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height=16/>
 
-![](https://img.shields.io/github/followers/albertopasqualetto?color=blue&label=My%20Followers)
-![](https://komarev.com/ghpvc/?username=albertopasqualetto)
+![Github followers](https://img.shields.io/github/followers/albertopasqualetto?style=flat&color=blue&label=Followers)
+![Github profile views](https://komarev.com/ghpvc/?username=albertopasqualetto)
 
 ### Languages and Tools:
 <p align="left">
